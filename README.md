@@ -4,11 +4,44 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET Engineer
 -------------
 
-Hi there! I'm a .NET engineer with a passion for building high-quality software that solves real-world problems. I have 4 years of experience working with the .NET framework and related technologies. Throughout my career, I've worked on a wide range of projects. I'm comfortable working with both back-end and front-end technologies, and I'm always eager to learn new things and expand my skill set. As a .NET engineer, I'm particularly interested in Web development using ASP.NET or ASP.NET Core. I enjoy working on projects that involve - Healthcare - Medical software - E-commerce platforms - Online marketplaces - Social networking - Messaging applications - CMS - CRM I'm always looking for new challenges and opportunities to grow as an engineer. Here are some of the skills and technologies I'm particularly proficient in: C# and .NET Core ASP.NET and ASP.NET Core SQL Server and other relational databases Entity Framework and other ORMs Web API development and integration Cloud technologies (Azure) Unit testing and integration testing Agile development methodologies In addition to my technical skills, I'm also a strong communicator and collaborator. I enjoy working with cross-functional teams and stakeholders to understand requirements and design solutions that meet their needs. I'm always looking for ways to improve my processes and workflows, and I'm not afraid to speak up when I see opportunities for improvement. If you're interested in collaborating on a project or just want to chat about all things .NET, feel free to reach out! I'm always happy to connect with other engineers and share knowledge and ideas.
+Hi there! 
+
+I'm a .NET engineer with a passion for building high-quality software that solves real-world problems. 
+
+I have 4 years of experience working with the .NET framework and related technologies. Throughout my career, I've worked on a wide range of projects. I'm comfortable working with both back-end and front-end technologies, and I'm always eager to learn new things and expand my skill set. 
+
+As a .NET engineer, I'm particularly interested in Web development using ASP.NET or ASP.NET Core. I enjoy working on projects that involve 
+
+- Healthcare 
+- Medical software 
+- E-commerce platforms 
+- Online marketplaces 
+- Social networking 
+- Messaging applications 
+- CMS 
+- CRM 
+ 
+I'm always looking for new challenges and opportunities to grow as an engineer. 
+
+Here are some of the skills and technologies I'm particularly proficient in: 
+
+- C# and .NET Core 
+- ASP.NET and ASP.NET Core 
+- SQL Server and other relational databases 
+- Entity Framework and other ORMs 
+- Web API development and integration 
+- Cloud technologies (Azure) 
+- Unit testing and integration testing 
+- Agile development methodologies 
+
+In addition to my technical skills, I'm also a strong communicator and collaborator. I enjoy working with cross-functional teams and stakeholders to understand requirements and design solutions that meet their needs. 
+
+I'm always looking for ways to improve my processes and workflows, and I'm not afraid to speak up when I see opportunities for improvement. 
+
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [fioridevelopment@gmail.com](mailto:fioridevelopment@gmail.com)
-* 🤝  I'm open to collaborating on Projects
+* 🤝  If you're interested in collaborating on a project or just want to chat about all things .NET, feel free to reach out! I'm always happy to connect with other engineers and share knowledge and ideas.
 
 ### Skills
 
