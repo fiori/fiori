@@ -28,7 +28,7 @@ Here are some of the skills and technologies I'm particularly proficient in:
 - C# and .NET Core 
 - ASP.NET and ASP.NET Core 
 - SQL Server and other relational databases 
-- Entity Framework and other ORMs 
+- Entity Framework and Dapper 
 - Web API development and integration 
 - Cloud technologies (Azure) 
 - Unit testing and integration testing 
