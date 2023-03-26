@@ -40,7 +40,7 @@ I'm always looking for ways to improve my processes and workflows, and I'm not a
 
 
 * 🌍  I'm based in Portugal
-* 🖥️  See my portfolio at [Fiori Development](https://fioridevelopment.com/)
+* 🖥️  Check my website at [Fiori Development](https://fioridevelopment.com/)
 * ✉️  You can contact me at [fioridevelopment@gmail.com](mailto:fioridevelopment@gmail.com)
 * 🤝  If you're interested in collaborating on a project or just want to chat about all things .NET, feel free to reach out! I'm always happy to connect with other engineers and share knowledge and ideas.
 
