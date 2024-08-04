@@ -10,7 +10,7 @@ Software Engineer
 * ASP.NET, .NET Core, WebAPI 2, Restful APIs
 * Experienced in microservice development and design. 
 * Able to develop complex scalable services
-* Passionate about technology, self-motivated and a strong believer in Software Craftsmanship
+* Passionate about technology
 * Adaptable to new technologies when required
 -------------
 
