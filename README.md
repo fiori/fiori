@@ -3,17 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -------------
-
-* C#
-* SQL (SQL Server, Postgres)
-* Redis, Couchbase, ElasticSearch
-* ASP.NET, .NET Core, WebAPI 2, Restful APIs
-* Experienced in microservice development and design. 
-* Able to develop complex scalable services
-* Passionate about technology
-* Adaptable to new technologies when required
--------------
-
 * 🌍  I'm based in Europe
 * 🖥️  Check my website at [Fiori Development](https://fioridevelopment.com/)
 * ✉️  You can contact me at [fioridevelopment@gmail.com](mailto:fioridevelopment@gmail.com)
